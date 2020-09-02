@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Eric Soto"
+date: "September 2020"
 output: html_document
 ---
 
@@ -16,11 +16,32 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+’Twas brillig, and the slithy toves.  
+Did gyre and gimble in the wabe;  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
+  
+“Beware the Jabberwock, my son!  
+
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+Two roads diverged in a yellow wood,    
+And sorry I could not travel both.   
+And be one traveler, long I stood.   
+And looked down one as far as I could.   
+To where it bent in the undergrowth;   
+   
+Then took the other, just as fair,  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+"I like the Walrus best," said Alice: "because you see he was a little sorry for the poor oysters."   
+"He ate more than the Carpenter, though," said Tweedledee. "You see he held his handkerchief in front, so that the Carpenter couldn't count how many he took: contrariwise."    
+   
+
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
